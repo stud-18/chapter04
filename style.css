@@ -14,7 +14,7 @@ h1,h2,h3,h4,p,ul,li,{
 /* webページのセンタリング css */
 #wrap{
   width:980px;
-  margin:0auto:
+  margin:0 auto:
 }
 /* ヘッダー　css */
 header{
