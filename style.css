@@ -57,3 +57,76 @@ nav a:hover{
   font-weight:bold;
   background-image:url(images/silvar.png);
 }
+/* メインコンテンツ　css */
+main{
+  width:960px;
+  padding-top:20px;
+  padding-left:20px;
+  padding-bottom:20px;
+  background-color:antiquewhite;
+  overflow:hidden;
+}
+h2{
+  font-size:24px;
+  width:400px;
+  heigth:60px;
+  margin-bottmo:20px;
+  line-heigth:60px;
+  text-align:center;
+  color:darkred;
+  background-image:url(images/silver-h2.png);
+}
+h3{
+  width:220px;
+  heigth:70px;
+  margin-top:20px;
+  margin-bottom:20px;
+  font-size:20px;
+  line-heigth:70px;
+  text-align:center;
+  color:darkred;
+  background-image:url(images/frame.png);
+  float:left:
+}
+.margin_p{
+  margin-top:45px;
+  margin-left:20px;
+  color:brpwn;
+  float:left;
+}
+#picup_p{
+  clear:both:
+  margin-right:20px;
+  float:left;
+}
+#picup_p{
+  width:440px;
+  height:280px;
+  padding:10px;
+  margin-right:20px;
+  border-radius:10px;
+  background-color:burlywood;
+  float:left;
+}
+h4{
+  wigth:200px;
+  height:60px;
+  margin-bottom:10px;
+  font-size:20px;
+  line-height:60px;
+  color:darkred;
+  text-slign:center;
+  border-radius:10px;
+  background-image:url(images/goldpanel.png)
+}
+#classic{clear:both;}
+.sweets{
+  width:280px;
+  padding:10px;
+  margin-right:20px;
+  border-radius:20px;
+  background-color:burlywood;
+  float:left;
+}
+  
+  
