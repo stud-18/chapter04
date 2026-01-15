@@ -11,9 +11,13 @@ h1,h2,h3,h4,p,ul,li,{
   margin:0;
   padding:0;
 }
+/* webページのセンタリング css */
+#wrap{
+  width:980px;
+  margin:0auto:
+}
 /* ヘッダー　css */
 header{
-  width:980px;
   color:brown;
   background-color:bisque;
   overflow:hidden;
@@ -59,7 +63,6 @@ nav a:hover{
 }
 /* メインコンテンツ　css */
 main{
-  width:960px;
   padding-top:20px;
   padding-left:20px;
   padding-bottom:20px;
@@ -131,7 +134,6 @@ h4{
 /* フッター */
 footer{
   clear:both;
-  width:940px;
   padding:20px/
   text-align:right;
   background-color:bisque;
