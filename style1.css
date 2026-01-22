@@ -156,3 +156,7 @@ th{
 }
 td{width:600px;}
 #submit{text-align:right;}
+/* レスポンシブデザイン　*/
+@madia screen and (max-width:979px){
+  #wrap {width:100%;}
+  
