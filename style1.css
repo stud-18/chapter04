@@ -159,4 +159,26 @@ td{width:600px;}
 /* レスポンシブデザイン　*/
 @madia screen and (max-width:979px){
   #wrap {width:100%;}
+  #logo{
+    display:block;
+    margin:5px auto;
+    float:none;
+  }
+  #head_meg{
+    margin:0;
+    text-align:center;
+    float:none;
+  }
+  h1{font-size:20px;}
+  #head_img{
+    width:100%;
+    height:auto;
+  }
+  nav{
+    width:100%;
+    padding:0;
+  }
+  nav li
+    
+  
   
